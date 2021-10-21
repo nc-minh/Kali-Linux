@@ -17,6 +17,10 @@ sudo apt-get update
 ```
 sudo apt-get upgrade
 ```
+- we can run both in terminal using command
+```
+sudo sh -c 'apt update && apt upgrade'
+```
 
 ## Basic commands to install the application
 

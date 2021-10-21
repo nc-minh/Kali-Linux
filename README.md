@@ -23,3 +23,14 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 # apt-get install git
 ```
+### VSCode
+- link: 
+```
+https://code.visualstudio.com/docs/?dv=linux64_deb
+```
+```
+cd Downloads
+```
+```
+sudo apt install ./'your file name has been downloaded'
+```

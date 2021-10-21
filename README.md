@@ -3,13 +3,22 @@
 ## Introduce
 This is Kali Linux version 2021.3
 ## Operate system
-- **settings using multiple monitors**
+- **Settings using multiple monitors**
 
 ``` 
 sudo xrandr --setprovideroutputsource 1 0 
 ```
+## update - run in root role
+- Download
+```
+sudo apt-get update
+```
+- Install
+```
+sudo apt-get upgrade
+```
 
-## Basic commands
+## Basic commands to install the application
 
 ### Google Chrome
 

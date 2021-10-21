@@ -2,6 +2,9 @@
 
 ## Introduce
 This is Kali Linux version 2021.3
+## Operate system
+- **settings using multiple monitors**
+- ``` sudo xrandr --setprovideroutputsource 1 0 ```
 
 ## Basic commands
 
